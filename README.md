@@ -5,6 +5,7 @@ In this project we will compare the fertility in developed vs developing countri
 Our data was taken from the Un database: http://data.un.org/Explorer.aspx
 
 How we got the Development (GDP per capita): UN Data --> World Development Indicators --> GDP per capita, PPP (current international $)
+
 How we got the Fertility: UN Data --> World Fertility Data
 
 
