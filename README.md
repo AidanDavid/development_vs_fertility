@@ -1,7 +1,7 @@
 # development_vs_fertility
 Setup:
 
-You can use requirements.txt to do this. Run the following in your console:
+To download the required libraries, run the following in your console:
 ```sh
 pip install -r requirements.txt
 ```
