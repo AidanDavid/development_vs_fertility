@@ -33,4 +33,6 @@ Question 3: How do ages of conception differ in developed vs developing countrie
 
 ## Analysis:
 ### Question 1:
+![Fertility Map](images/FertMap.png)
+![Fertility Scatter Plot](images/FertScatter.png)
 There is a clear correlation in both developed and developing countries where there is an increase in GDP per Capita, you see a decrease in the rate of fertility. That is to say, in general, that citizens of more developed and wealthy countries tend to have fewer children than citizens of less developed and less wealthy countries. The difference in fertility is most apparent amongst developing countries. Countries with GDP per capitas near the development boundary of $12,000 USD, have fertility rates (~2 to 4) dramatically lower than those at the very bottom of the global GDP valuations (~5 to 7). The Pearson correlation value (-0.5371), as well as the P-value (0.0000000000000023), both demonstrate a clear negative correlation between fertility and GDP per capita (development).
