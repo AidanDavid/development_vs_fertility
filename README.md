@@ -1,4 +1,5 @@
 # development_vs_fertility
+Authors: Saba Alaeddini, Vidushi Bundhooa, Aidan David
 ## Setup:
 
 To download the required libraries, run the following in your console:
