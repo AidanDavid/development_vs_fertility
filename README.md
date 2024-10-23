@@ -11,7 +11,10 @@ pip install -r requirements.txt
 In this project we will compare the fertility in developed vs developing countries. Using UN data we aim to draw conclusions based on a country's development and their fertility, contraceptive use, and infant survival rates. This will allow for an understanding of how human development may influence a society's perspective on sex and birth.
 
 ### Data:
+
 Our data was taken from the UN database: http://data.un.org/Explorer.aspx
+
+Some of the data was restricted by years and countries, thus much of the data centers around 2012 and may be missing a small quantity of countries.
 
 How we got the Development (GDP per capita): UN Data --> World Development Indicators --> GDP per capita, PPP (current international $)
 
