@@ -1,4 +1,12 @@
 # development_vs_fertility
+Setup:
+
+You can use requirements.txt to do this. Run the following in your console:
+```sh
+pip install -r requirements.txt
+```
+
+Background and Analysis:
 
 In this project we will compare the fertility in developed vs developing countries. Using UN data we aim to draw conclusions based on a country's development and their fertility, contraceptive use, and infant survival rates. This will allow for an understanding of how human development may influence a society's perspective on sex and birth.
 
@@ -18,7 +26,4 @@ Question 1: How do fertility rates differ in developed vs developing countries? 
 Question 2: How prevalent are contraceptives in developed countries vs developing countries? (Saba)
 
 
-Question 3: How do infant survival rates differ in developed vs developing countries? (Sandra)
-
-
-Question 4: How do ages of conception differ in developed vs developing countries? (Vidushi)
+Question 3: How do ages of conception differ in developed vs developing countries? (Vidushi)
