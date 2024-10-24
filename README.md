@@ -39,6 +39,12 @@ Question 3: How do ages of conception differ in developed vs developing countrie
 There is a clear correlation in both developed and developing countries where there is an increase in GDP per Capita, you see a decrease in the rate of fertility. That is to say, in general, that citizens of more developed and wealthy countries tend to have fewer children than citizens of less developed and less wealthy countries. The difference in fertility is most apparent amongst developing countries. Countries with GDP per capitas near the development boundary of $12,000 USD, have fertility rates (~2 to 4) dramatically lower than those at the very bottom of the global GDP valuations (~5 to 7). The Pearson correlation value (-0.5371), as well as the P-value (0.0000000000000023), both demonstrate a clear negative correlation between fertility and GDP per capita (development).
 
 
+###Question 2:
+Regarding to the tests that have been done like ANOVA, and based on F-statistic: 22.05155597911754 and P-value: 4.630506206795897e-27 results we can conclude:
+*F-statistic of 22.05 suggests that there is a strong likelihood that at least one of the group means is significantly different from the others.
+*p-value of 4.630506206795897e-27 is much smaller than the standard significance levels of 0.05 or 0.01. This means that there is an extremely small probability (practically negligible) that the observed result occurred by chance under the assumption that the null hypothesis is true. In other words, we can confidently reject the null hypothesis and conclude that there is a statistically significant difference between the means of the groups being compared.
+As we can see in the bar chart and also the numerical value of the means for each method in developing and developed countries, we can conclude that the Pill with average usage of 15.86% is the most common contraceptive method in developed countries, on the other hand, in the developing countries Injectable method with average usage of 9.44% is the most common one
+
 
 ### Question 3:
 Summary of Project/Abstract
